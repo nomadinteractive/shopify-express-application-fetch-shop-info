@@ -1,0 +1,1 @@
+# shopify-express-application-fetch-shop-info
